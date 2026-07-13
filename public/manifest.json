@@ -1,0 +1,21 @@
+{
+  "manifestVersion": 1,
+  "id": "study_goal",
+  "name": "Study Goal",
+  "author": "Felix",
+  "repoUrl": "https://github.com/remnoteio/remnote-official-plugins",
+  "enableOnMobile": true,
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "minimumRemNoteVersion": {
+    "major": 1,
+    "minor": 8,
+    "patch": 18
+  },
+  "description": "Set a study goal and get a celebration + a live progress badge in the queue.",
+  "requestNative": false,
+  "requiredScopes": []
+}
